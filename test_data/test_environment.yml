@@ -1,0 +1,10 @@
+:environment_urls:
+  :ghost:
+    :base_uri: https://ghost.org
+    :login: /login
+    :subscribe_trial: /subscribe/trial
+    :account_page: /settings/account
+  :ghost_support:
+    :base_uri: http://support.ghost.org
+  :adoption:
+    :base_uri: http://thetestroom.com/webapp

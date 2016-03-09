@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+ruby '2.2.1'
+
+gem 'selenium-webdriver'
+gem 'rspec'
+gem 'fuubar'
+gem 'syntax'
+gem 'nokogiri'
+gem 'mechanize'
+gem 'pry-byebug'
+gem 'ffaker'
+gem 'builder'
